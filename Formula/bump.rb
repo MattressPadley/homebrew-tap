@@ -3,7 +3,7 @@ class Bump < Formula
   homepage "https://github.com/mattresspadley/bump"
   version "0.0.6"
   url "https://github.com/MattressPadley/bump/releases/download/v0.0.6/bump-macos-v0.0.6.tar.gz"
-  sha256 "5610d778870306fc1d0c3cba5a607293025a590f201a702ec09f17edcf9aa736"
+  sha256 "b8d58d131b41e4c720fea4a3d991f1208ee42be111d03ce5dd38cc30c33fb58a"
   license "MIT"
 
   def install
