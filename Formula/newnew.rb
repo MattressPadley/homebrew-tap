@@ -1,9 +1,9 @@
 class Newnew < Formula
   desc "Version management CLI for multiple languages"
   homepage "https://github.com/mattresspadley/newnew"
-  version "0.1.0"
-  url "https://github.com/MattressPadley/newnew/releases/download/v0.1.0/newnew-macos-v0.1.0.tar.gz"
-  sha256 "d486b6d37fecf349637d8439c5a1d55e05cf6e6c4c0bb400cd7a9ccf8840f62a"
+  version "0.1.1"
+  url "https://github.com/MattressPadley/newnew/releases/download/v0.1.1/newnew-macos-v0.1.1.tar.gz"
+  sha256 "f196868d50801e68e9ceb71afe06b6ff4fcaceea5a94e003ae328c0be14176d4"
   license "MIT"
 
   def install
