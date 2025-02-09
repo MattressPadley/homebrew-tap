@@ -1,5 +1,5 @@
 class Newnew < Formula
-  desc "Version management CLI for multiple languages"
+  desc "Project bootstrapper"
   homepage "https://github.com/mattresspadley/newnew"
   version "0.1.1"
   url "https://github.com/MattressPadley/newnew/releases/download/v0.1.1/newnew-macos-v0.1.1.tar.gz"
