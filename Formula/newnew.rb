@@ -1,9 +1,9 @@
 class Newnew < Formula
   desc "Project bootstrapper"
   homepage "https://github.com/mattresspadley/newnew"
-  version "0.2.0"
-  url "https://github.com/MattressPadley/newnew/releases/download/v0.2.0/newnew-macos-v0.2.0.tar.gz"
-  sha256 "87ff4c9efc0ffb7b6c618c569fe242a0107c350ea84696ffb71f0a9b9939db13"
+  version "0.3.0"
+  url "https://github.com/MattressPadley/newnew/releases/download/v0.3.0/newnew-macos-v0.3.0.tar.gz"
+  sha256 "9441a500e4f19ba58f4687a5a3f62604f1730bf94721f0ce5fd412aa60e766fe"
   license "MIT"
 
   def install
