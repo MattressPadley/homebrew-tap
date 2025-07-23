@@ -1,15 +1,15 @@
 class Bump < Formula
   desc "Interactive TUI for semantic versioning and changelog generation"
   homepage "https://github.com/MattressPadley/bump"
-  version "0.1.2"
+  version "0.1.3"
   license "MIT"
 
   if Hardware::CPU.intel?
-    url "https://github.com/MattressPadley/bump/releases/download/v0.1.2/bump-darwin-amd64.tar.gz"
-    sha256 "d787070858771fc53f92c1d5711b1999a705c2603cce20bd4057866caf791510"
+    url "https://github.com/MattressPadley/bump/releases/download/v0.1.3/bump-darwin-amd64.tar.gz"
+    sha256 "613e7539d7ca30e3796e7cd1b7e34ff0ad23a9147d1f5ab6f7aa574a08d216e8"
   else
-    url "https://github.com/MattressPadley/bump/releases/download/v0.1.2/bump-darwin-arm64.tar.gz"
-    sha256 "94c64bbb94bfe1f1d42b21381bc758fa202a50cec49b50358122c23a6c99f433"
+    url "https://github.com/MattressPadley/bump/releases/download/v0.1.3/bump-darwin-arm64.tar.gz"
+    sha256 "0bed68189b747f1af820decaa2f29075f1bcb4f32cae22966a1e3ec9599e29f3"
   end
 
   def install
